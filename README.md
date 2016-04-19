@@ -1,3 +1,4 @@
+
 #This is Autonomous Intersection Manager written in Erlang
 
 Each car is autonomous it communicates with the road manager to receive
@@ -17,3 +18,4 @@ Result: Cars are crossing the intersection simultaneously without collisions
  (between the laptop and the beagleBoards)
 
 -Also tested on Intel Edison with wifi interface
+
